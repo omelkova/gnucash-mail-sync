@@ -1,3 +1,7 @@
+install dependency gnucash
+```
+libdbd-sqlite3
+```
 To create a virtual environment run 
 ```
 python3.6 -m venv venv
