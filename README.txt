@@ -1,6 +1,6 @@
 To create a virtual environment run 
 ```
-python3.4 -m venv venv
+python3.6 -m venv venv
 ```
 Activate virtual environment using
 ```
