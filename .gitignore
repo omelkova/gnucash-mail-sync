@@ -1,2 +1,9 @@
 venv
 .idea/
+.ipython_checkpoints
+*.ipynb
+
+__pycache__
+*.pyc
+
+*.log
