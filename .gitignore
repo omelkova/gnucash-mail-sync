@@ -8,4 +8,4 @@ __pycache__
 
 *.log
 
-config.cfg
+app/config.cfg
